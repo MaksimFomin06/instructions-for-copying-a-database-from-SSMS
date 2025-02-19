@@ -3,16 +3,16 @@
 <details>
 <summary>Отключение антивируса</summary>
 Нажимаем на значок антивируса
-![Как найти антивирус](images/antivirus1.png)
+<img src="images/antivirus1.png" alt="Значок антивируса">
 
 Переходим в раздел "Защита от вирусов и угроз"
-![Переход в нужный раздел](images/antivirus2.png)
+<img src="images/antivirus2.png" alt="Переход в нужынй раздел">
 
 Переходим в управление настройками
-![Управление нстройками](images/antivirus3.png)
+<img src="images/antivirus3.png" alt="Управление настройками">
 
 Переключаем все ползунки
-![Переключение полузнков](images/antivirus4.png)
+<img src="images/antivirus4.png" alt="Переключение ползунков">
 
 Готово
 </details>

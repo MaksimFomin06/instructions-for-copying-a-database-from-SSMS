@@ -19,5 +19,5 @@
 </details>
 <h2>1 часть. Установка ssms и sql server</h2>
 Скачать ssms: <a href="https://github.com/MaksimFomin06/instructions-for-copying-a-database-from-SSMS/raw/refs/heads/main/ssms/SSMS-Setup-RUS.exe?download=" download>SSMS-Setup-RUS.exe ~695mb</a>
-<br>
+<hr>
 Установка sql server: <a href="https://github.com/MaksimFomin06/instructions-for-copying-a-database-from-SSMS/raw/refs/heads/main/sql%20server/SQL2022-SSEI-Dev.exe?download=" download>SQL Server </a>

@@ -1,1 +1,1 @@
-# instructions-for-copying-the-database
+# инструкция по копированию базы данных с ssms для студентов КИУ

@@ -1,1 +1,2 @@
 # инструкция по копированию базы данных с ssms для студентов КИУ
+<a href="https://github.com/MaksimFomin06/instructions-for-copying-a-database-from-SSMS/blob/main/ssms/SSMS-Setup-RUS.exe" download>Скачать файл</a>

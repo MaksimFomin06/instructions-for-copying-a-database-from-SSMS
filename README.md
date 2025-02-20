@@ -1,7 +1,7 @@
 <h1>Инструкция по копированию базы данных с ssms для студентов КИУ</h1>
 <h3>!!!Перед началом выполнения инструкции необходимо отключить антивирус на вашем ПК</h3>
 <details>
-<summary>Отключение антивируса</summary>
+<summary>Отключение антивируса (раскрывается)</summary>
 
 Нажимаем на значок антивируса
 <img src="images/antivirus1.png" alt="Значок антивируса">
@@ -21,7 +21,7 @@
 
 <h3>Установка sql server:</h3> <a href="https://github.com/MaksimFomin06/instructions-for-copying-a-database-from-SSMS/raw/refs/heads/main/sql%20server/SQL2022-SSEI-Dev.exe?download=" download>SQL Server </a>
 <details>
-<summary>Инструкция по запуску</summary>
+<summary>Инструкция по запуску (раскрывается)</summary>
 <ul>
 <li>
 Запускаем файл
@@ -52,7 +52,7 @@
 
 <h3>Скачать ssms:</h3> <a href="https://github.com/MaksimFomin06/instructions-for-copying-a-database-from-SSMS/raw/refs/heads/main/ssms/SSMS-Setup-RUS.exe?download=" download>SSMS-Setup-RUS.exe ~695mb</a>
 <details>
-<summary>Инструкция по запуску</summary>
+<summary>Инструкция по запуску (раскрывается)</summary>
 <ul>
 <li>
 Запускаем файл
@@ -68,3 +68,4 @@
 </li>
 </ul>
 </details>
+<h2>2 часть. Настройка ssms</h2>

@@ -53,4 +53,18 @@
 <h3>Скачать ssms:</h3> <a href="https://github.com/MaksimFomin06/instructions-for-copying-a-database-from-SSMS/raw/refs/heads/main/ssms/SSMS-Setup-RUS.exe?download=" download>SSMS-Setup-RUS.exe ~695mb</a>
 <details>
 <summary>Инструкция по запуску</summary>
+<ul>
+<li>
+Запускаем файл
+<img src="images/ssms1.png" alt="">
+</li>
+<li>
+В всплывающем окне разрешаем внесение изменений на устройстве("Да")
+</li>
+<li>
+Проверяем расположение и кнопку "Установить".
+После установки нажимаем "Закрыть"
+<img src="images/ssms2.png" alt="">
+</li>
+</ul>
 </details>

@@ -69,3 +69,20 @@
 </ul>
 </details>
 <h2>2 часть. Настройка ssms</h2>
+<details>
+<summary>Настройка (раскрывается)</summary>
+<ul>
+<li>
+Открываем ssms. Нас встречает такое меню.
+<img src="images/ssms3.png" alt="">
+</li>
+<li>
+Далее в окне выбираем "Продолжить обзор"
+<img src="images/ssms4.png" alt="">
+</li>
+<li>
+Выбираем как на фото. Далее "ОК" и "Соединить"
+<img src="images/ssms5.png" alt="">
+</li>
+</ul>
+</details>

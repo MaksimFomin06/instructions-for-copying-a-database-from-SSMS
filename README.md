@@ -125,27 +125,27 @@
 <ul>
 <li>
 В ssms создаем базу данных с таким же названием как и на сервере
-<img src="recovery.png" alt="">
+<img src="images/recovery.png" alt="">
 </li>
 <li>
 Выйдет окно. В "Имя базы данных" пишем название БД. Нажимаем "ОК"
-<img src="recovery3.png" alt="">
+<img src="images/recovery3.png" alt="">
 </li>
 <li>
 Находим наш файл в проводнике, нажимаем на него два раза
-<img src="recovery1.png" alt="">
+<img src="images/recovery1.png" alt="">
 </li>
 <li>
 Файл откроется в ssms и нам нужно будет его выполнить
-<img src="recovery2.png" alt="">
+<img src="images/recovery2.png" alt="">
 </li>
 <li>
 Если вы все сделали правильно то скрипт выполнится успешно
-<img src="recovery4.png" alt="">
+<img src="images/recovery4.png" alt="">
 </li>
 <li>
 Можем проверить правильность копирования выводом случайных данных из БД
-<img src="recovery5.png" alt="">
+<img src="images/recovery5.png" alt="">
 </li>
 </ul>
 </details>

@@ -23,21 +23,21 @@
 <details>
 <summary>Инструкция по запуску</summary>
 Запускаем файл
-<img src="images/sql1" alt="Запуск exe файла">
+<img src="images/sql1.png" alt="Запуск exe файла">
 В всплывающем окне разрешаем внесение изменений на устройстве("Да")
 
 Выбираем тип установки "Базовая"
-<img src="images/sql2" alt="Базовая">
+<img src="images/sql2.png" alt="Базовая">
 
 Нажимаем "Принять"
-<img src="images/sql3" alt="">
+<img src="images/sql3.png" alt="">
 
 Проверяем место установки и нажимаем кнопку "Установить"
-<img src="images/sql4" alt="">
+<img src="images/sql4.png" alt="">
 Ждем конца установки. Размер ~8.5gb
 
 Нажимаем "Закрыть" и "Да"
-<img src="images/sql5" alt="">
+<img src="images/sql5.png" alt="">
 </details>
 
 Скачать ssms: <a href="https://github.com/MaksimFomin06/instructions-for-copying-a-database-from-SSMS/raw/refs/heads/main/ssms/SSMS-Setup-RUS.exe?download=" download>SSMS-Setup-RUS.exe ~695mb</a>

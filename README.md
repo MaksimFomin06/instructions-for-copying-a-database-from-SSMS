@@ -17,7 +17,30 @@
 
 Готово
 </details>
-<h2>1 часть. Установка ssms и sql server</h2>
-Скачать ssms: <a href="https://github.com/MaksimFomin06/instructions-for-copying-a-database-from-SSMS/raw/refs/heads/main/ssms/SSMS-Setup-RUS.exe?download=" download>SSMS-Setup-RUS.exe ~695mb</a>
-<hr>
+<h2>1 часть. Установка sql server и ssms</h2>
+
 Установка sql server: <a href="https://github.com/MaksimFomin06/instructions-for-copying-a-database-from-SSMS/raw/refs/heads/main/sql%20server/SQL2022-SSEI-Dev.exe?download=" download>SQL Server </a>
+<details>
+<summary>Инструкция по запуску</summary>
+Запускаем файл
+<img src="images/sql1" alt="Запуск exe файла">
+В всплывающем окне разрешаем внесение изменений на устройстве("Да")
+
+Выбираем тип установки "Базовая"
+<img src="images/sql2" alt="Базовая">
+
+Нажимаем "Принять"
+<img src="images/sql3" alt="">
+
+Проверяем место установки и нажимаем кнопку "Установить"
+<img src="images/sql4" alt="">
+Ждем конца установки. Размер ~8.5gb
+
+Нажимаем "Закрыть" и "Да"
+<img src="images/sql5" alt="">
+</details>
+
+Скачать ssms: <a href="https://github.com/MaksimFomin06/instructions-for-copying-a-database-from-SSMS/raw/refs/heads/main/ssms/SSMS-Setup-RUS.exe?download=" download>SSMS-Setup-RUS.exe ~695mb</a>
+<details>
+<summary>Инструкция по запуску</summary>
+</details>
